@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "623853b2614ad5aba311fdd1",
+    "index": 0,
+    "price": 14,
+    "review": "Nice Product. Well behaved.Totally satisfied",
+    "name": "Monira Roy",
+    "gender": "Female",
+    "rating": "4.5"
+  },
+  {
+    "_id": "623853b2578e9e6ad1ae0dd5",
+    "index": 1,
+    "review": "Satisfied. Thank you",
+    "name": "Lorem Ispum",
+    "price": 27,
+    "gender": "Female",
+    "rating": "4.8"
+  },
+  {
+    "_id": "623853b21fb149d2ee7b76c7",
+    "index": 2,
+    "review": "First Delivery. Good product with resonable price",
+    "name": "Black Smith",
+    "price": 24,
+    "gender": "Male",
+    "rating": "5.0"
+  },
+  {
+    "_id": "623853b2e91c8de578c9245e",
+    "index": 3,
+    "review": "Products quality are amazing",
+    "name": "Max well",
+    "price": 14,
+    "gender": "Mix Yellow",
+    "rating": "4.9"
+  },
+  {
+    "_id": "623853b2239582e48409ccc6",
+    "index": 4,
+    "price": 34,
+    "review": "Nice quality.Latest addition",
+    "name": "Bachelor",
+    "gender": "male",
+    "rating": "4.9"
+  },
+  {
+    "_id": "623853b2cdda0d5bc294f791",
+    "index": 5,
+    "review": "Totally satisfied. Thank you for such a great product.",
+    "name": "Romel vuiya",
+    "price": 141,
+    "gender": "male",
+    "rating": "4.5"
+  },
+  {
+    "_id": "623853b2736f19fd4eb8d44a",
+    "index": 6,
+    "price": 41,
+    "review": "Nice product",
+    "name": "Bela shekh",
+    "gender": "female",
+    "rating": "5.0"
+  }
+]
